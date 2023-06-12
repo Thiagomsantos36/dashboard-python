@@ -104,7 +104,7 @@ def display_desp(data):
     valor = df['Valor'].sum()
 
     # Chamar a função para enviar o e-mail
-    destinatario = "thiaguinho.cascao@gmail.com"
+    destinatario = "@gmail.com"
     assunto = "Relatório diário das despesas"
     conteudo = "Olá, segue o relatório do dia conforme solicitado."
     enviar_email(destinatario, assunto, conteudo, data)  # Adicione o argumento 'data' aqui
@@ -113,8 +113,8 @@ def display_desp(data):
 
 
 def enviar_email(destinatario, assunto, conteudo, dados_despesas):
-    remetente = "thiaguinho.msantos@hotmail.com"
-    senha = "bsjhyqzgejrkxaae"
+    remetente = "@hotmail.com"
+    senha = ""
 
     # Criar um DataFrame com os dados das despesas
     df_despesas = pd.DataFrame(dados_despesas)
