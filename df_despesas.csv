@@ -1,0 +1,20 @@
+,Valor,Efetuado,Fixo,Data,Categoria,Descrição
+0,100.0,1,0,2023-04-10,Diversos,lanche da tarde para funcionários
+1,250.0,1,0,2023-04-20,Mercado,produto de limpeza
+2,500.0,1,0,2023-04-22,Diversos,eletricista
+3,1000.0,1,0,2023-04-26,Diversos,reparos da loja 
+4,1000.0,1,0,2023-05-26,Fornecedor ,compra de Acessórios
+5,100.0,1,0,2023-05-26,Diversos,lanche da tarde para funcionários
+6,250.0,1,0,2023-05-26,Mercado,produto de limpeza
+7,500.0,1,0,2023-05-26,Diversos,eletricista
+8,1000.0,1,0,2023-05-26,Diversos,reparos da loja 
+9,1000.0,1,0,2023-05-26,Fornecedor ,compra de Acessórios
+10,100.0,1,0,2023-05-26,Alimentação,lanche da tarde para funcionários
+11,200.0,1,0,2023-05-27,Mercado,produto de limpeza
+12,100.0,1,0,2023-05-31,Alimentação,lanche da tarde para funcionários
+13,1000.0,1,0,2023-05-31,Diversos,eletricista
+14,150.0,1,0,2023-06-05,Alimentação,almoço dos funcionarios
+15,550.0,0,0,2023-06-05,Estoque,peças para estoque
+16,5000.0,1,0,2023-06-06,aluguel ,aluguel 
+17,1000.0,1,0,2023-06-06,contador,Contador
+18,500.0,1,0,2023-06-06,Diversos,pagamento funcionarios
